@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Abhis\\.gradle\\caches\\transforms-2\\files-2.1\\36fd8a1320d1879703c20b80c834dc75\\material-1.2.1\\res\\values-v28\\values-v28.xml",

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
-        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_view.xml",
+        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\src\\main\\res\\layout\\item_view.xml"
     },
     {
-        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_view.xml",
-        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\android-basics-kotlin-words-app-starter\\app\\src\\main\\res\\layout\\item_view.xml"
+        "merged": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android An Koline programs and App 2078-01-20\\CodeLabs_GOOGLE\\WordGame\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
