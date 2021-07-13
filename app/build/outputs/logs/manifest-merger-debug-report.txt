@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\f6035ca9b5682205680ac6284aa3cf2b\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2501d05af9ab9e2288e7ec79b1efbd76\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\36fd8a1320d1879703c20b80c834dc75\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1986cd714da60696f05f245e62834aa8\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\6cba47071d7984bb2243d7b50e4fbe4d\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c1571ecf28bc27a993290bbae6db0112\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c7d70d5df04570811a88f784edfa39cb\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a5f6f7d44edff75c947e0ea4378402bd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bb7b6732f7e2402776754ac4eb4bb2b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\07482f8bd507e194e358b93d2bb94765\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\9317adc53ff05c4124110ab7afca4e3e\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\b3ae7de266ab9f410afeac9ebabb788f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2dadfdff9fbdc7caac74cb44ae3184af\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a6f017ae3b616fd180e95315a7acd50b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\63b19fc193fd0321164122398a81b566\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4130709f391ddad2d069fb2b7a398df0\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7b0976bf093b5a12d445873564455361\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\15accaa55ffd8ac4b80afea3180e6f0a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\161fae29ac5cbebdda95d4fa64eee67f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c50df0f73de4f74f5973fc42965ae531\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1531ef4f0239111847dacc246585ef8a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bc3735414d18894f9d7785a2a101948\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4ce3695a8224b1a011defd33df1750cf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\bc147853717c39f3392953ad94c57418\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7db4ff247672e4bc605ee11c363e8008\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\723ab2b8f7d41b906a0ae7eedcda79b2\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\3594066de599cf30c5c12dcaad8a3ad6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\e6ac1d34b752b20bc9a32d69ec4309ca\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5462cf3beef77b915f9c1f8b6fdef141\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:18:5-35
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:20:5-37:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\36fd8a1320d1879703c20b80c834dc75\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\36fd8a1320d1879703c20b80c834dc75\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1986cd714da60696f05f245e62834aa8\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1986cd714da60696f05f245e62834aa8\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1531ef4f0239111847dacc246585ef8a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1531ef4f0239111847dacc246585ef8a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:26:9-43
+activity#com.example.wordsapp.DetailActivity
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:27:9-29:58
+	android:parentActivityName
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.example.wordsapp.MainActivity
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\f6035ca9b5682205680ac6284aa3cf2b\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\f6035ca9b5682205680ac6284aa3cf2b\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2501d05af9ab9e2288e7ec79b1efbd76\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2501d05af9ab9e2288e7ec79b1efbd76\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\36fd8a1320d1879703c20b80c834dc75\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\36fd8a1320d1879703c20b80c834dc75\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1986cd714da60696f05f245e62834aa8\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1986cd714da60696f05f245e62834aa8\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\6cba47071d7984bb2243d7b50e4fbe4d\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\6cba47071d7984bb2243d7b50e4fbe4d\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c1571ecf28bc27a993290bbae6db0112\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c1571ecf28bc27a993290bbae6db0112\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c7d70d5df04570811a88f784edfa39cb\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c7d70d5df04570811a88f784edfa39cb\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a5f6f7d44edff75c947e0ea4378402bd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a5f6f7d44edff75c947e0ea4378402bd\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bb7b6732f7e2402776754ac4eb4bb2b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bb7b6732f7e2402776754ac4eb4bb2b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\07482f8bd507e194e358b93d2bb94765\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\07482f8bd507e194e358b93d2bb94765\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\9317adc53ff05c4124110ab7afca4e3e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\9317adc53ff05c4124110ab7afca4e3e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\b3ae7de266ab9f410afeac9ebabb788f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\b3ae7de266ab9f410afeac9ebabb788f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2dadfdff9fbdc7caac74cb44ae3184af\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\2dadfdff9fbdc7caac74cb44ae3184af\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a6f017ae3b616fd180e95315a7acd50b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\a6f017ae3b616fd180e95315a7acd50b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\63b19fc193fd0321164122398a81b566\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\63b19fc193fd0321164122398a81b566\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4130709f391ddad2d069fb2b7a398df0\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4130709f391ddad2d069fb2b7a398df0\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7b0976bf093b5a12d445873564455361\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7b0976bf093b5a12d445873564455361\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\15accaa55ffd8ac4b80afea3180e6f0a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\15accaa55ffd8ac4b80afea3180e6f0a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\678b3fa5c3daec361b5466fe9b824be7\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\161fae29ac5cbebdda95d4fa64eee67f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\161fae29ac5cbebdda95d4fa64eee67f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c50df0f73de4f74f5973fc42965ae531\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\c50df0f73de4f74f5973fc42965ae531\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1531ef4f0239111847dacc246585ef8a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\1531ef4f0239111847dacc246585ef8a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bc3735414d18894f9d7785a2a101948\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5bc3735414d18894f9d7785a2a101948\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4ce3695a8224b1a011defd33df1750cf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\4ce3695a8224b1a011defd33df1750cf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\bc147853717c39f3392953ad94c57418\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\bc147853717c39f3392953ad94c57418\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7db4ff247672e4bc605ee11c363e8008\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\7db4ff247672e4bc605ee11c363e8008\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\723ab2b8f7d41b906a0ae7eedcda79b2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\723ab2b8f7d41b906a0ae7eedcda79b2\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\3594066de599cf30c5c12dcaad8a3ad6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\3594066de599cf30c5c12dcaad8a3ad6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\e6ac1d34b752b20bc9a32d69ec4309ca\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\e6ac1d34b752b20bc9a32d69ec4309ca\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5462cf3beef77b915f9c1f8b6fdef141\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Abhis\.gradle\caches\transforms-2\files-2.1\5462cf3beef77b915f9c1f8b6fdef141\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android An Koline programs and App 2078-01-20\CodeLabs_GOOGLE\android-basics-kotlin-words-app-starter\app\src\main\AndroidManifest.xml
